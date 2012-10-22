@@ -2,19 +2,37 @@
 
 When you run this example using `cfx run`, you should see this printed to the console:
 
-info: [
-  {
-    "data": {
-      "from_three": 3,
-      "form_one": 1,
-      "form_two": 2
-    }
-  },
-  {
-    "data": {
-      "from_three": 3,
-      "form_one": 1,
-      "form_two": 2
-    }
-  }
-]
+	info: [
+	  {
+	    "data": {
+	      "from_three": 3,
+	      "form_one": 1,
+	      "form_two": 2
+	    }
+	  },
+	  {
+	    "data": {
+	      "from_three": 3,
+	      "form_one": 1,
+	      "form_two": 2
+	    }
+	  }
+	]
+	info: [
+	  {
+	    "data": {
+	      "from_three": 3,
+	      "form_one": 1,
+	      "form_two": 2,
+	      "from_main": "Hello!"
+	    }
+	  },
+	  {
+	    "data": {
+	      "from_three": 3,
+	      "form_one": 1,
+	      "form_two": 2,
+	      "from_main": "Hello!"
+	    }
+	  }
+	]
